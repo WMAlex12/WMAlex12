@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Karel Vázquez and I'm a Software Engineer, from México.</h2>
+<h2 align="left">Hi 👋! My name is Karel Vázquez and I'm a Software Engineer</h2>
 
 ###
 
